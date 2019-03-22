@@ -1,7 +1,9 @@
 # PySpark_KmeansClustering
 K-means clustering on an e-commerce dataset with PySpark
 
+
 Project Walkthrough
+
 We first load all datasets that are going to be used with spark.read.csv and then join them one by one and remove all NAs along the way. 
 We had 111,686 rows of data after cleaning.
 The chosen features are the 3 numeric variables including survey_score, price, product_photos_qty. No categorical variables are applicable because the distance function in k-means is Euclidean Distance, and even though some discussions mentioned k-mode to be a possible alternative for categorical variables, we did not proceed because we are more interested in what results these variables with k-means clustering would give us. 
