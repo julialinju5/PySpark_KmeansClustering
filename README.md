@@ -17,3 +17,6 @@ Based on the resulting centroid prediction and cluster plot, we can see the bigg
 The smallest cluster is the No. 2 cluster in the green line with the significantly higher price and normal level of survey score and picture quantity. 
 If higher-priced products can lead to more profit to the company, it would be recommended to increase the number of higher-priced products featured in cluster No.2. 
 There is a group of obviously lower-rated products featured in cluster No.0 that would be worthy of further investigation with other additional numeric features to make systematic improvements.
+
+
+This project is for academic purpose and is a group work for class 'Big Data Technology and Business Application' in UCSD MS Business Analytics.
