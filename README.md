@@ -19,4 +19,4 @@ If higher-priced products can lead to more profit to the company, it would be re
 There is a group of obviously lower-rated products featured in cluster No.0 that would be worthy of further investigation with other additional numeric features to make systematic improvements.
 
 
-This project is for academic purpose and is a group work for class 'Big Data Technology and Business Application' in UCSD MS Business Analytics.
+*This project is for academic purpose and is a group work for class 'Big Data Technology and Business Application' in UCSD MS Business Analytics.
